@@ -1,0 +1,24 @@
+body{
+    background-color: coral;
+}
+
+span,p{
+    padding-top: 10px;
+    font-family:  'special Elite',fantasy;
+    font-size: 25px;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+#time{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+#sketch_name{
+    color: red;
+}
+#show_sketch{
+    float: right;
+}
